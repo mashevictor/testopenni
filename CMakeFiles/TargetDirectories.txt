@@ -1,0 +1,3 @@
+/home/victor/software/testopenni/CMakeFiles/edit_cache.dir
+/home/victor/software/testopenni/CMakeFiles/rebuild_cache.dir
+/home/victor/software/testopenni/CMakeFiles/TestOpenNI.dir
